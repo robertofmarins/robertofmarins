@@ -1,4 +1,4 @@
-<H1>Hi, I'm Roberto, Full Stack Developer 👋</H1>
+<H1>Hi, I'm Roberto, a Full Stack Developer. 👋</H1>
 
 <div>
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=robertofmarins&theme=midnight-purple">
