@@ -27,8 +27,6 @@
  	<a href="https://www.linkedin.com/in/betorfm/?originalSubdomain=br" target="_blank">
 		<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 	</a>
- Click [here](https://www.geeksforgeeks.org/){:target="_blank"} 
-to visit GeeksForGeeks website.
 	
 </div>
 
