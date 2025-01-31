@@ -11,7 +11,7 @@
 	<img alt="javascript" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 	<img alt="python" width="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 	<img alt="postgresql" width="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-	<img alt="postgresql" width="60" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
+	<img alt="sass" width="60" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
 </div>
 <br>
 <div> 
