@@ -15,12 +15,11 @@
 </div>
 <br>
 <div> 
-	<a href="https://instagram.com/betorfm" rel="external" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   	<a href = "mailto:betorfm88@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  	<a href="https://www.linkedin.com/in/betorfm/?originalSubdomain=br" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-	<a href="https://www.linkedin.com/in/betorfm/?originalSubdomain=br" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>a>
+<a href="https://wa.me/5521990034590" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
-<a href="https://www.linkedin.com/in/betorfm/?originalSubdomain=br" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 </div>
 
 <picture align="center">
