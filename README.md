@@ -1,8 +1,8 @@
 <H1>Hi, I'm Roberto, a Full Stack Developer. 👋</H1>
 
 <div align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=robertofmarins&theme=midnight-purple&show_icons=true&hide_border=true">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertofmarins&theme=midnight-purple&layout=compact&langs_count=8&hide_border=true"/>
+	<img width="180em" src="https://github-readme-stats.vercel.app/api?username=robertofmarins&theme=midnight-purple&show_icons=true&hide_border=true">
+	<img width="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertofmarins&theme=midnight-purple&layout=compact&langs_count=8&hide_border=true"/>
 </div> 
 <br>
 <div>
