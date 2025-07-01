@@ -1,5 +1,5 @@
 <H1>Hi, I'm Roberto, a Full Stack Developer. 👋</H1>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Especialista+em+Front+e+Back-end;Apaixonado+por+Clean+Code+e+UX/UI"/>
 <div>
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=robertofmarins&theme=midnight-purple">
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertofmarins&theme=midnight-purple&layout=compact&langs_count=10"/>
