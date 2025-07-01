@@ -1,11 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?
-font=Fira+Code
-&color=%23A020F0
-&size=30
-&pause=1000
-&width=1024
-&lines=Hi,+I'm+Roberto+Marins;
-I'm+a+Full+Stack+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23A020F0&size=30&pause=1000&width=1024&lines=Hi,+I'm+Roberto+Marins;I'm+a+Full+Stack+Developer" />
 
 Sou desenvolvedor full stack com foco em tecnologias modernas como React, Next.js, Node.js e PostgreSQL. Atualmente estou buscando uma oportunidade profissional para aplicar meus conhecimentos e continuar evoluindo com projetos reais.
 
