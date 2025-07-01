@@ -1,12 +1,5 @@
-<img src="https://readme-typing-svg.herokuapp.com?
-font=Fira+Code
-&color=%23A020F0
-&size=30
-&pause=1000
-&width=1024
-&lines=Hi,+I'm+Roberto+-+Full+Stack+Developer;
-Desenvolvedor+Full+Stack;Especialista+em+Front+e+Back-end;
-Apaixonado+por+Clean+Code+e+UX/UI" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23A020F0&size=30&pause=1000&width=1024&lines=Hi,+I'm+Roberto+-+Full+Stack+Developer;Desenvolvedor+Full+Stack;Especialista+em+Front+e+Back-end;Apaixonado+por+Clean+Code+e+UX/UI" />
+
 
 <div>
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=robertofmarins&theme=midnight-purple">
