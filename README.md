@@ -39,7 +39,11 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/robertomarins/robertomarins/output/github-contribution-grid-snake.svg">
 </picture>
 
+### 🌟 Principais Projetos
 
+🔹 [**System Login Lab**](https://app.robertomarins.com.br) — Sistema completo de autenticação com front em React/Next.js e back em Node.js + Express, com banco PostgreSQL via Supabase e Prisma ORM.
+
+🔹 [**Meu Portfólio Profissional**](https://www.robertomarins.com.br) — Site pessoal com design responsivo e animações suaves, feito com React + Tailwind + Framer Motion.
 
 <!--
 
