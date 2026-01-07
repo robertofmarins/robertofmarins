@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23A020F0&size=30&pause=1000&width=1024&lines=Hi,+I'm+A+Front-end+Developer;Olá+Sou+Desenvolvedor+Front-end;React+•+Next.js+•+TypeScript" style="border: none;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=45&pause=1000&color=A020F0F0&background=FF000000&vCenter=true&width=1024&lines=Ol%C3%A1+sou+desenvolvedor+front-end;Hi%2C+I'm+a+front-end+developer" style="border: none;" />
 </p>
 
 **Desenvolvedor Front-end Júnior** com experiência prática como freelancer, especializado em React, Next.js, TypeScript e Tailwind CSS. Transição de carreira após 15+ anos em operações de alta responsabilidade (segurança, logística), aplicando disciplina, resolução de problemas e trabalho em equipe ao desenvolvimento web.
