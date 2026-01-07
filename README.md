@@ -44,19 +44,27 @@ Desenvolvedor Front-end em transição de carreira, com experiência prática em
 ## 🛠️ Tech Stack
 
 ### **Front-end Principal**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<div>
+  <img alt="React" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" />
+  <img alt="Next.js" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" />
+  <img alt="TypeScript" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" />
+  <img alt="Tailwind CSS" width="50" src="https://camo.githubusercontent.com/abba501b95cfaf3f09d6547feb90ee82e26e92e273d23a057bd9d5a3e1e29b1c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f7461696c77696e646373732f7461696c77696e646373732d6f726967696e616c2e737667" title="Tailwind CSS" />
+  <img alt="JavaScript" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" />
+  <img alt="HTML5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" />
+  <img alt="CSS3" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" />
+</div>
 
-### **Ferramentas**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
+### **Ferramentas & Deploy**
+<div>
+  <img alt="Git" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" />
+  <img alt="Vercel" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" title="Vercel" />
+  <img alt="VS Code" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" />
+</div>
 
 ---
+
+
+
 
 ## 🚀 Outros Projetos
 
@@ -197,27 +205,7 @@ Desenvolvedor Front-end com experiência prática em projetos freelance e foco n
 
 ---
 
-## 🛠️ Tech Stack
 
-### **Front-end Principal**
-<div>
-  <img alt="React" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" />
-  <img alt="Next.js" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" />
-  <img alt="TypeScript" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" />
-  <img alt="Tailwind CSS" width="50" src="https://camo.githubusercontent.com/abba501b95cfaf3f09d6547feb90ee82e26e92e273d23a057bd9d5a3e1e29b1c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f7461696c77696e646373732f7461696c77696e646373732d6f726967696e616c2e737667" title="Tailwind CSS" />
-  <img alt="JavaScript" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" />
-  <img alt="HTML5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" />
-  <img alt="CSS3" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" />
-</div>
-
-### **Ferramentas & Deploy**
-<div>
-  <img alt="Git" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" />
-  <img alt="Vercel" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" title="Vercel" />
-  <img alt="VS Code" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" />
-</div>
-
----
 
 ## 🚀 Outros Projetos
 
