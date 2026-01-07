@@ -1,8 +1,20 @@
 # 👋 Roberto Marins | Front-end Developer
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23A020F0&size=30&pause=1000&width=1024&lines=Hi,+I'm+Roberto+Marins;I'm+a+Full+Stack+Developer" />
 
 **React • Next.js • TypeScript • Tailwind CSS**
 
 Desenvolvedor Front-end em transição de carreira, com experiência prática em projetos freelance. Especializado em criar interfaces modernas e responsivas com tecnologias atuais.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/robertofmarins">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robertofmarins&show_icons=true&count_private=true&include_all_commits=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertofmarins&layout=compact&langs_count=6" />
+  </a>
+</div>
 
 ---
 
@@ -34,14 +46,7 @@ Desenvolvedor Front-end em transição de carreira, com experiência prática em
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robertofmarins&show_icons=true&theme=default&hide_border=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertofmarins&layout=compact&theme=default&hide_border=true&langs_count=6" />
-</div>
 
 ---
 
@@ -74,7 +79,7 @@ _Disponível para projetos freelance e colaborações_
 
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23A020F0&size=30&pause=1000&width=1024&lines=Hi,+I'm+Roberto+Marins;I'm+a+Full+Stack+Developer" />
+
 
 Sou desenvolvedor full stack com foco em tecnologias modernas como React, Next.js, Node.js e PostgreSQL. Atualmente estou buscando uma oportunidade profissional para aplicar meus conhecimentos e continuar evoluindo com projetos reais.
 
