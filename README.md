@@ -8,13 +8,23 @@ Desenvolvedor Front-end em transição de carreira, com experiência prática em
 
 <div align="center">
   <a href="https://github.com/robertofmarins">
-    <!-- Esta você disse que funciona -->
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=robertofmarins&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=robertofmarins&layout=compact&langs_count=6&theme=default" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=robertofmarins&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=robertofmarins&layout=compact&langs_count=6&theme=midnight-purple" />
   </a>
 </div>
 
 ---
+
+
+
+
+
+
+
+
+
+
+
 
 ## 🏆 Projeto em Destaque
 
@@ -70,6 +80,10 @@ Repositórios com estudos em React, Next.js e TypeScript
 Primeira oportunidade como **Desenvolvedor Front-end Júnior (CLT/PJ)**
 
 _Disponível para projetos freelance e colaborações_
+
+
+
+
 
 
 
@@ -146,6 +160,13 @@ Sou desenvolvedor full stack com foco em tecnologias modernas como React, Next.j
 
 
 
+
+
+
+
+
+
+
 # 👋 Roberto Marins | Front-end Developer
 
 
@@ -154,16 +175,7 @@ Desenvolvedor Front-end com experiência prática em projetos freelance e foco n
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/robertofmarins">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=robertofmarins&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=robertofmarins&layout=compact&langs_count=6&theme=midnight-purple" />
-  </a>
-</div>
-
----
 
 ## 🏆 Projeto em Produção
 
