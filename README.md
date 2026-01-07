@@ -1,3 +1,79 @@
+# 👋 Roberto Marins | Front-end Developer
+
+**React • Next.js • TypeScript • Tailwind CSS**
+
+Desenvolvedor Front-end em transição de carreira, com experiência prática em projetos freelance. Especializado em criar interfaces modernas e responsivas com tecnologias atuais.
+
+---
+
+## 🏆 Projeto em Destaque
+
+### 🏠 [Paraíso Design - Loja de Móveis](https://www.paraisodesign.com.br)
+**Site institucional em produção** | Next.js 16 • React 19 • TypeScript • Tailwind CSS
+
+- Design 100% responsivo (mobile, tablet, desktop)
+- Animações fluidas com Framer Motion
+- Carrossel interativo com Swiper
+- Performance otimizada e SEO
+- Deploy profissional na Vercel
+
+🔗 **Live:** https://www.paraisodesign.com.br
+
+---
+
+## 🛠️ Tech Stack
+
+### **Front-end Principal**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### **Ferramentas**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robertofmarins&show_icons=true&theme=default&hide_border=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertofmarins&layout=compact&theme=default&hide_border=true&langs_count=6" />
+</div>
+
+---
+
+## 🚀 Outros Projetos
+
+### [Meu Portfólio](https://robertomarins.dev)
+Site pessoal desenvolvido com React e Tailwind CSS
+
+### [Projetos de Estudo]
+Repositórios com estudos em React, Next.js e TypeScript
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[seu-linkedin])
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://robertomarins.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@robertomarins.com.br)
+
+---
+
+## 🎯 Buscando
+Primeira oportunidade como **Desenvolvedor Front-end Júnior (CLT/PJ)**
+
+_Disponível para projetos freelance e colaborações_
+
+
+
+
+
+
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23A020F0&size=30&pause=1000&width=1024&lines=Hi,+I'm+Roberto+Marins;I'm+a+Full+Stack+Developer" />
 
 Sou desenvolvedor full stack com foco em tecnologias modernas como React, Next.js, Node.js e PostgreSQL. Atualmente estou buscando uma oportunidade profissional para aplicar meus conhecimentos e continuar evoluindo com projetos reais.
