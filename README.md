@@ -1,3 +1,17 @@
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23A020F0&size=30&pause=1000&width=1024&lines=Hi,+I'm+Roberto+Marins;Front-end+Developer;React+•+Next.js+•+TypeScript" />
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 👋 Roberto Marins | Front-end Developer
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23A020F0&size=30&pause=1000&width=1024&lines=Hi,+I'm+Roberto+Marins;I'm+a+Full+Stack+Developer" />
 
@@ -150,7 +164,7 @@ Sou desenvolvedor full stack com foco em tecnologias modernas como React, Next.j
 
 
 # 👋 Roberto Marins | Front-end Developer
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23A020F0&size=30&pause=1000&width=1024&lines=Hi,+I'm+Roberto+Marins;Front-end+Developer;React+•+Next.js+•+TypeScript" />
+
 
 **Especializado em criar interfaces modernas e responsivas com tecnologias atuais.**  
 Desenvolvedor Front-end com experiência prática em projetos freelance e foco no ecossistema JavaScript moderno.
