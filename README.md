@@ -1,6 +1,10 @@
 # <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23A020F0&size=30&pause=1000&width=1024&lines=Hi,+I'm+Roberto+Marins;Front-end+Developer;React+•+Next.js+•+TypeScript" />
 
-Desenvolvedor Front-end em transição de carreira, com experiência prática em projetos freelance. Especializado em criar interfaces modernas e responsivas com tecnologias atuais.
+Desenvolvedor Front-end em transição de carreira, com 15+ anos de experiência em operações de alta responsabilidade (segurança, logística) e agora aplicando essa disciplina ao desenvolvimento web.
+
+Especializado em React, Next.js, TypeScript e Tailwind CSS para criação de interfaces modernas e responsivas. Com experiência prática como freelancer, já desenvolvi e coloquei no ar sites institucionais como o Paraíso Design.
+
+**Busco minha primeira oportunidade como Desenvolvedor Júnior Front-end (CLT ou PJ)** para crescer em um time estruturado, contribuir com minhas habilidades técnicas e evoluir profissionalmente em um ambiente colaborativo.
 
 ---
 
@@ -249,15 +253,5 @@ Repositórios focados em React, Next.js e TypeScript
 ## 🎯 Buscando Oportunidade
 **Primeira posição como Desenvolvedor Front-end Júnior (CLT/PJ)**  
 _Disponível para projetos freelance e colaborações_
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robertofmarins/robertomarins/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/robertofmarins/robertomarins/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/robertofmarins/robertomarins/output/github-contribution-grid-snake.svg">
-</picture>
-
----
 
 ⭐ *"Código é arte, e interfaces são a galeria onde ela se exibe."*
