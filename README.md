@@ -142,3 +142,118 @@ Sou desenvolvedor full stack com foco em tecnologias modernas como React, Next.j
 ---
 
 <!-- Atualize com mais projetos incríveis e mantenha sua presença ativa! -->
+
+
+
+
+
+
+
+# 👋 Roberto Marins | Front-end Developer
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23A020F0&size=30&pause=1000&width=1024&lines=Hi,+I'm+Roberto+Marins;Front-end+Developer;React+•+Next.js+•+TypeScript" />
+
+**Especializado em criar interfaces modernas e responsivas com tecnologias atuais.**  
+Desenvolvedor Front-end com experiência prática em projetos freelance e foco no ecossistema JavaScript moderno.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/robertofmarins">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=robertofmarins&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=robertofmarins&layout=compact&langs_count=6&theme=midnight-purple" />
+  </a>
+</div>
+
+---
+
+## 🏆 Projeto em Produção
+
+### 🏠 [Paraíso Design - Loja de Móveis](https://www.paraisodesign.com.br)
+**Site institucional real desenvolvido como freelancer**
+
+🛠️ **Stack:** Next.js 16 • React 19 • TypeScript • Tailwind CSS • Framer Motion • Swiper  
+🚀 **Deploy:** Vercel (profissional)
+
+✨ **Funcionalidades:**
+- Design 100% responsivo (mobile-first)
+- Animações fluidas e interativas
+- Carrossel de produtos com Swiper
+- Performance otimizada (90+ Lighthouse)
+- SEO implementado
+
+🔗 **Live:** https://www.paraisodesign.com.br  
+📁 **Código:** [Repositório GitHub](https://github.com/robertofmarins/paraiso-design)
+
+---
+
+## 🛠️ Tech Stack
+
+### **Front-end Principal**
+<div>
+  <img alt="React" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" />
+  <img alt="Next.js" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" />
+  <img alt="TypeScript" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" />
+  <img alt="Tailwind CSS" width="50" src="https://camo.githubusercontent.com/abba501b95cfaf3f09d6547feb90ee82e26e92e273d23a057bd9d5a3e1e29b1c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f7461696c77696e646373732f7461696c77696e646373732d6f726967696e616c2e737667" title="Tailwind CSS" />
+  <img alt="JavaScript" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" />
+  <img alt="HTML5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" />
+  <img alt="CSS3" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" />
+</div>
+
+### **Ferramentas & Deploy**
+<div>
+  <img alt="Git" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" />
+  <img alt="Vercel" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" title="Vercel" />
+  <img alt="VS Code" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" />
+</div>
+
+---
+
+## 🚀 Outros Projetos
+
+### 🔹 [System Login Lab](https://app.robertomarins.com.br)
+Sistema de autenticação com React/Next.js front-end
+
+### 🔹 [Meu Portfólio](https://robertomarins.dev)
+Site pessoal com design responsivo e animações
+
+### 🔹 Projetos de Estudo
+Repositórios focados em React, Next.js e TypeScript
+
+---
+
+## 📫 Conecte-se Comigo
+
+<p>
+  <a href="https://www.linkedin.com/in/betorfm" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:contato@robertomarins.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://wa.me/5521990034590" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://robertomarins.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+---
+
+## 🎯 Buscando Oportunidade
+**Primeira posição como Desenvolvedor Front-end Júnior (CLT/PJ)**  
+_Disponível para projetos freelance e colaborações_
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robertofmarins/robertomarins/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/robertofmarins/robertomarins/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/robertofmarins/robertomarins/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+⭐ *"Código é arte, e interfaces são a galeria onde ela se exibe."*
