@@ -13,8 +13,6 @@ Desenvolvedor Front-end em transição de carreira, com experiência prática em
   <a href="https://github.com/robertofmarins">
     <!-- Esta você disse que funciona -->
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=robertofmarins&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
-    
-    <!-- Use o MESMO servidor para a segunda -->
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=robertofmarins&layout=compact&langs_count=6&theme=default" />
   </a>
 </div>
