@@ -15,7 +15,11 @@ Desenvolvedor Front-end em transição de carreira, com experiência prática em
 
 ---
 
-
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robertofmarins/robertomarins/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/robertofmarins/robertomarins/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/robertofmarins/robertomarins/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 
@@ -62,11 +66,7 @@ Desenvolvedor Front-end em transição de carreira, com experiência prática em
   <img alt="Next.js" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" />
   
   
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robertofmarins/robertomarins/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/robertofmarins/robertomarins/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/robertofmarins/robertomarins/output/github-contribution-grid-snake.svg">
-</picture>
+
   
   
   
