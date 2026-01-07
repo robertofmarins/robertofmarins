@@ -45,13 +45,31 @@ Desenvolvedor Front-end em transição de carreira, com experiência prática em
 
 ### **Front-end Principal**
 <div>
-  <img alt="React" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" />
-  <img alt="Next.js" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" />
-  <img alt="TypeScript" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" />
-  <img alt="Tailwind CSS" width="50" src="https://camo.githubusercontent.com/abba501b95cfaf3f09d6547feb90ee82e26e92e273d23a057bd9d5a3e1e29b1c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f7461696c77696e646373732f7461696c77696e646373732d6f726967696e616c2e737667" title="Tailwind CSS" />
-  <img alt="JavaScript" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" />
   <img alt="HTML5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" />
+
   <img alt="CSS3" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" />
+
+  <img alt="Sass" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+
+  <img alt="Tailwind CSS" width="50" src="https://camo.githubusercontent.com/abba501b95cfaf3f09d6547feb90ee82e26e92e273d23a057bd9d5a3e1e29b1c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f7461696c77696e646373732f7461696c77696e646373732d6f726967696e616c2e737667" title="Tailwind CSS" />
+
+  <img alt="JavaScript" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" />
+
+  <img alt="TypeScript" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" />
+
+  <img alt="React" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" />
+
+  <img alt="Next.js" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" />
+  
+  
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robertofmarins/robertomarins/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/robertofmarins/robertomarins/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/robertofmarins/robertomarins/output/github-contribution-grid-snake.svg">
+</picture>
+  
+  
+  
 </div>
 
 ### **Ferramentas & Deploy**
@@ -140,11 +158,7 @@ Sou desenvolvedor full stack com foco em tecnologias modernas como React, Next.j
   </a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robertofmarins/robertomarins/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/robertofmarins/robertomarins/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/robertofmarins/robertomarins/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 ### 🌟 Principais Projetos
 
