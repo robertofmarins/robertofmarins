@@ -2,9 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=45&pause=1000&color=A020F0F0&background=FF000000&vCenter=true&width=1024&lines=Ol%C3%A1+sou+desenvolvedor+front-end;Hi%2C+I'm+a+front-end+developer" style="border: none;" />
 </p>
 
-**Desenvolvedor Front-end Júnior** com experiência prática como freelancer, especializado em React, Next.js, TypeScript e Tailwind CSS. Transição de carreira após 15+ anos em operações de alta responsabilidade (segurança, logística), aplicando disciplina, resolução de problemas e trabalho em equipe ao desenvolvimento web.
+Desenvolvedor Front-end Júnior com **experiência real como freelancer**, atuando na criação de **interfaces modernas, responsivas e focadas em performance**.
 
-**Busco minha primeira oportunidade como Desenvolvedor Front-end Júnior (CLT ou PJ)** para contribuir com minhas habilidades técnicas e evoluir em um ambiente colaborativo.
+Especializado em **React, Next.js, TypeScript e Tailwind CSS**, com forte atenção a **código limpo, usabilidade e boas práticas**. Transição de carreira após **15+ anos em áreas de alta responsabilidade**, trazendo maturidade, disciplina e visão de entrega para o desenvolvimento web.
+
+🎯 Busco minha primeira oportunidade como **Desenvolvedor Front-end Júnior (CLT ou PJ)** para contribuir em **projetos reais** e evoluir tecnicamente em um **time colaborativo**.
 
 ## 📊 GitHub Stats
 
