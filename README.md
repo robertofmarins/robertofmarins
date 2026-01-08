@@ -6,36 +6,24 @@
 
 **Busco minha primeira oportunidade como Desenvolvedor Front-end Júnior (CLT ou PJ)** para contribuir com minhas habilidades técnicas e evoluir em um ambiente colaborativo.
 
----
-
 ## 📊 GitHub Stats
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
-      <a href="https://github.com/robertofmarins">
-        <img height="180"
-          src="https://github-readme-stats-eight-theta.vercel.app/api?username=robertofmarins&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/robertofmarins">
-        <img height="180"
-          src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=robertofmarins&layout=compact&langs_count=6&theme=midnight-purple" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-
+<p align="center">
+  <a href="https://github.com/robertofmarins">
+    <img align="top" height="180em"
+      src="https://github-readme-stats-eight-theta.vercel.app/api?username=robertofmarins&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/robertofmarins">
+    <img align="top" height="180em"
+      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=robertofmarins&layout=compact&langs_count=6&theme=midnight-purple" />
+  </a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robertofmarins/robertomarins/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/robertofmarins/robertomarins/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/robertofmarins/robertomarins/output/github-contribution-grid-snake.svg">
 </picture>
-
----
 
 ## 🏆 Projetos em Produção
 
@@ -55,8 +43,6 @@
 🔗 **Live:** https://www.paraisodesign.com.br  
 📁 **Código:** [Ver repositório](https://github.com/robertofmarins/paraiso-design)
 
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -71,16 +57,10 @@
   <img alt="Vercel" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" title="Vercel" />
 </div>
 
----
-
 ## 📫 Contato
 
 <p align="center">
 <a href="https://www.linkedin.com/in/robertofmarins" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><a href="https://robertomarins.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a><a href="mailto:contato@robertomarins.dev" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a><a href="https://wa.me/5521990034590" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
-
-
-
----
 
 ⭐ *"Código é arte, e interfaces são a galeria onde ela se exibe."*
