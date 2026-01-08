@@ -10,16 +10,23 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/robertofmarins">
-    <img align="top" height="180em"
-      src="https://github-readme-stats-eight-theta.vercel.app/api?username=robertofmarins&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/robertofmarins">
-    <img align="top" height="180em"
-      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=robertofmarins&layout=compact&langs_count=6&theme=midnight-purple" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/robertofmarins">
+        <img height="180em"
+          src="https://github-readme-stats-eight-theta.vercel.app/api?username=robertofmarins&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/robertofmarins">
+        <img height="180em"
+          src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=robertofmarins&layout=compact&langs_count=6&theme=midnight-purple" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robertofmarins/robertomarins/output/github-contribution-grid-snake-dark.svg">
