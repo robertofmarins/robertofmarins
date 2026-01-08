@@ -10,22 +10,23 @@
 
 ## 📊 GitHub Stats
 
-<table align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td>
       <a href="https://github.com/robertofmarins">
-        <img height="180em"
+        <img height="180"
           src="https://github-readme-stats-eight-theta.vercel.app/api?username=robertofmarins&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
       </a>
     </td>
     <td>
       <a href="https://github.com/robertofmarins">
-        <img height="180em"
+        <img height="180"
           src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=robertofmarins&layout=compact&langs_count=6&theme=midnight-purple" />
       </a>
     </td>
   </tr>
 </table>
+
 
 
 <picture>
