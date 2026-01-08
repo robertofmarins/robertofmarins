@@ -11,7 +11,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/robertofmarins">
+  <a href="https://github.com/robertofmarins" style="text-decoration: none;">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=robertofmarins&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=robertofmarins&layout=compact&langs_count=6&theme=midnight-purple" />
   </a>
@@ -64,16 +64,16 @@
 ## 📫 Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/robertofmarins" target="_blank">
+  <a href="https://www.linkedin.com/in/robertofmarins" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://robertomarins.dev" target="_blank">
+  <a href="https://robertomarins.dev" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="mailto:contato@robertomarins.dev" target="_blank">
+  <a href="mailto:contato@robertomarins.dev" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://wa.me/5521990034590" target="_blank">
+  <a href="https://wa.me/5521990034590" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
