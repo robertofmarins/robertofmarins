@@ -10,12 +10,14 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/robertofmarins" style="text-decoration: none;">
+<p align="center">
+  <a href="https://github.com/robertofmarins">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=robertofmarins&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/robertofmarins">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=robertofmarins&layout=compact&langs_count=6&theme=midnight-purple" />
   </a>
-</div>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robertofmarins/robertomarins/output/github-contribution-grid-snake-dark.svg">
@@ -64,19 +66,28 @@
 ## 📫 Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/robertofmarins" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/robertofmarins" target="_blank">
+    <span>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </span>
   </a>
-  <a href="https://robertomarins.dev" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  <a href="https://robertomarins.dev" target="_blank">
+    <span>
+      <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    </span>
   </a>
-  <a href="mailto:contato@robertomarins.dev" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:contato@robertomarins.dev" target="_blank">
+    <span>
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </span>
   </a>
-  <a href="https://wa.me/5521990034590" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  <a href="https://wa.me/5521990034590" target="_blank">
+    <span>
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    </span>
   </a>
 </p>
+
 
 ---
 
