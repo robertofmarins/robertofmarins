@@ -54,7 +54,7 @@ Atuo com **React e Next.js** no front-end, **Node.js** no back-end e **PostgreSQ
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div>
   <img alt="React" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img alt="Next.js" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img alt="TypeScript" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -62,13 +62,14 @@ Atuo com **React e Next.js** no front-end, **Node.js** no back-end e **PostgreSQ
   <img alt="JavaScript" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img alt="HTML5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img alt="CSS3" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="Node.js" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img alt="Git" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="Vercel" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" />
 </div>
 
 ## 📫 Contato
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/robertofmarins" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
