@@ -47,20 +47,20 @@ Atuo com foco em **código limpo, boas práticas, segurança de dados e performa
 
 ## 📊 Estatísticas e Atividade
 
-<p align="center">
-  <a href="https://github.com/robertofmarins">
-    <img
-      height="195"
-      src="https://robertomarins.dev/api/github-stats"
-    />
-  </a>
-  <a href="https://github.com/robertofmarins">
-    <img
-      height="195"
-      src="https://robertomarins.dev/api/github-languages"
-    />
-  </a>
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://github.com/robertofmarins">
+        <img src="https://robertomarins.dev/api/github-stats" height="195" />
+      </a>
+    </td>
+    <td align="center" valign="top" style="padding-left: 10px;">
+      <a href="https://github.com/robertofmarins">
+        <img src="https://robertomarins.dev/api/github-languages" height="195" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <picture>
