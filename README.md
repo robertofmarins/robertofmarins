@@ -50,14 +50,14 @@ Atuo com foco em **código limpo, boas práticas, segurança de dados e performa
 <p align="center">
   <a href="https://github.com/robertofmarins">
     <img
-      height="180em"
+      height="195"
       src="https://robertomarins.dev/api/github-stats"
     />
   </a>
   <a href="https://github.com/robertofmarins">
     <img
-      height="180em"
-      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=robertofmarins&layout=compact&langs_count=6&theme=midnight-purple"
+      height="195"
+      src="https://robertomarins.dev/api/github-languages"
     />
   </a>
 </p>
