@@ -51,7 +51,7 @@ Atuo com foco em **código limpo, boas práticas, segurança de dados e performa
   <a href="https://github.com/robertofmarins">
     <img
       height="180em"
-      src="https://github-readme-stats-eight-theta.vercel.app/api?username=robertofmarins&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"
+      src="https://robertomarins.dev/api/github-stats"
     />
   </a>
   <a href="https://github.com/robertofmarins">
