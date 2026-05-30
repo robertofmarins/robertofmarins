@@ -47,6 +47,7 @@ Atuo com foco em **código limpo, boas práticas, segurança de dados e performa
 
 ## 📊 Estatísticas e Atividade
 
+<!--
 <p align="center">
   <a href="https://github.com/robertofmarins">
     <img src="https://robertomarins.dev/api/github-stats" height="195" />
@@ -56,6 +57,7 @@ Atuo com foco em **código limpo, boas práticas, segurança de dados e performa
     <img src="https://robertomarins.dev/api/github-languages" height="195" />
   </a>
 </p>
+-->
 
 <p align="center">
   <picture>
